@@ -1,6 +1,7 @@
 # Test-task-Zero-LLM
 
 I have leveraged Langchain and Streamlit for rapid development. I had some doubts in identifying what format the date is in, to transform it into the required format later.
+*I did not understand what exactly was asked in the bonus question. I'm confident I would be able to answer it if I was able to ask some questions to get a better understanding of what was asked*
 
 Steps to download and use: 
 -> Clone the repo
